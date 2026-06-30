@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+results/
+*.ckpt
+*.pt
+.ipynb_checkpoints/
+data/chexpert/
+data/mimic/
+data/vindr/

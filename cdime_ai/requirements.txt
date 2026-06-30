@@ -1,0 +1,13 @@
+# Core (Colab usually ships torch already; pin loosely to stay T4-compatible)
+torch>=2.0
+torchvision>=0.15
+transformers>=4.30
+timm>=0.9.12
+scikit-learn>=1.2
+scipy>=1.10
+numpy>=1.23
+pandas>=1.5
+pillow>=9.0
+# Optional explainability extras
+# shap>=0.43
+matplotlib>=3.6
